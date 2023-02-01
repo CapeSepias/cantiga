@@ -11,7 +11,7 @@
     },
     "require": {
         "php": ">=7.1.0",
-        "symfony/symfony": "3.2.1",
+        "symfony/symfony": "3.4.49",
         "doctrine/dbal": "^2.5.5",
         "doctrine/doctrine-bundle": "~1.6",
         "symfony/swiftmailer-bundle": "~2.4",
